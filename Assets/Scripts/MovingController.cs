@@ -9,15 +9,13 @@ public class MovingController : MonoBehaviour
     [SerializeField] private float _maxDistance;
     [SerializeField] private Path _path;
     private Transform pointInPath;
-
-
     public void Start()
     {
         transform.position = _path.GetStartPosition().transform.position;
         pointInPath = _path.GetNextPathPoint();
     }
 
-    public void FixedUpdate()
+    public void Update()
     {
         if (pointInPath == null)
             return;
@@ -26,7 +24,6 @@ public class MovingController : MonoBehaviour
         TrainRotation();
         CheckLastPathPoint();
     }
-
     void TrainMoving()
     {
         transform.position = Vector3.MoveTowards(transform.position, pointInPath.transform.position, Time.deltaTime * _speed);
