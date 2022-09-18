@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using DefaultNamespace;
 using UnityEngine;
 
 public class ViewsHolder : MonoBehaviour
@@ -21,4 +22,5 @@ public class ViewsHolder : MonoBehaviour
 
     public StationInteractView StationInteractView;
     public TrainControllerView TrainControllerView;
+    public FixTrainView FixTrainView;
 }

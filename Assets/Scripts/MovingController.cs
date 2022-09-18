@@ -51,7 +51,7 @@ public class MovingController : MonoBehaviour
         return _speed;
     }
 
-    public float SetCurrentSpeed(float targetSpeed)
+    public void SetCurrentSpeed(float targetSpeed)
     {
         StopAllCoroutines();
         if (targetSpeed>0)
@@ -62,7 +62,6 @@ public class MovingController : MonoBehaviour
         {
             StartCoroutine(BrakeTrain(targetSpeed));
         }
-        return targetSpeed;
     }
     private IEnumerator AccelerateTrain(float targetSpeed)
     {
@@ -73,8 +72,6 @@ public class MovingController : MonoBehaviour
                 _speed += targetSpeed / 10;
                 yield return new WaitForSeconds(2f);
             }
-
-            //StartCoroutine(_trainCharacteristics.SetDamage());
         }
     }
     private IEnumerator BrakeTrain(float targetSpeed)
