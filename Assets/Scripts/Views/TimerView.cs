@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -8,10 +7,11 @@ namespace DefaultNamespace
     {
         [SerializeField] private Text _timertext;
         [SerializeField] private MovingController _movingController;
+        [SerializeField]private int minuts = 5;
+        
         private TrainCharacteristics _trainCharacteristics;
         private ViewsHolder _viewsHolder;
         
-        private int minuts = 1;
         private float seconds;
         private bool isActive;
 
