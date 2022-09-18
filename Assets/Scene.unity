@@ -1600,8 +1600,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe551c6012934fc09cee97748f3f2b21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ChangeCameraMode: {fileID: 0}
-  TrainSpeedScrollbar: {fileID: 1480958916}
+  "_\u0441hangeCameraMode": {fileID: 0}
+  _trainSpeedScrollbar: {fileID: 1480958916}
   _movingController: {fileID: 1993009737}
 --- !u!1 &1250640962
 GameObject:

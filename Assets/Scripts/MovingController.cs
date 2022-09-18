@@ -48,9 +48,42 @@ public class MovingController : MonoBehaviour
         return _speed;
     }
 
-    public float SetCurrentSpeed(float speed)
+    public float SetCurrentSpeed(float targetSpeed)
     {
-        _speed = speed;
-        return speed;
+        StopAllCoroutines();
+        if (targetSpeed>0)
+        {
+            StartCoroutine(AccelerateTrain(targetSpeed)); 
+        }
+        else
+        {
+            StartCoroutine(BrakeTrain(targetSpeed));
+        }
+        return targetSpeed;
+    }
+
+    private IEnumerator AccelerateTrain(float targetSpeed)
+    {
+        if (targetSpeed>0)
+        {
+            while (_speed < 10)
+            {
+                _speed += targetSpeed / 10;
+                yield return new WaitForSeconds(1f);
+            }
+        }
+    }
+
+    private IEnumerator BrakeTrain(float targetSpeed)
+    {
+        if (targetSpeed < 0.1)
+        {
+            while (_speed > 0.1)
+            {
+                _speed -= _speed / 10;
+                yield return new WaitForSeconds(0.5f);
+            }
+            _speed = 0;
+        }
     }
 }
