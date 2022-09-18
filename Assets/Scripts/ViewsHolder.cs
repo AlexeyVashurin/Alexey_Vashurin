@@ -24,4 +24,5 @@ public class ViewsHolder : MonoBehaviour
     public TrainControllerView TrainControllerView;
     public FixTrainView FixTrainView;
     public GameOverView GameOverView;
+    public HealthTrainView HealthTrainView;
 }

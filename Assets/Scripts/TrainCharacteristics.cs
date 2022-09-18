@@ -46,6 +46,7 @@ namespace DefaultNamespace
             while (_trainHealth > 0)
             {
                 _trainHealth -= Random.Range(0,10);
+                viewsHolder.HealthTrainView.SetSliderValue((float)_trainHealth);
                 yield return new WaitForSeconds(3f);
             }
 
@@ -68,6 +69,7 @@ namespace DefaultNamespace
             while (_trainHealth <100)
             {
                     _trainHealth += 20/_breakdownLevel;
+                    viewsHolder.HealthTrainView.SetSliderValue((float)_trainHealth);
                     yield return new WaitForSeconds(1f);
             }
             viewsHolder.FixTrainView.gameObject.SetActive(false);

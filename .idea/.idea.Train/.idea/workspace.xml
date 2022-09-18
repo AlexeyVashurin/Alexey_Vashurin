@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2f530be-113e-430e-8d45-33f1f99ac185" name="Changes" comment="Add level of break">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameOverView.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameOverView.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/TimerView.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/TimerView.cs.meta" afterDir="false" />
+    <list default="true" id="d2f530be-113e-430e-8d45-33f1f99ac185" name="Changes" comment="Add GameOverView">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Train/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Train/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/TrainCharacteristics.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TrainCharacteristics.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TrainControllerView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TrainControllerView.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ViewsHolder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ViewsHolder.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../Programs/2020.2.4f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Scrollbar.cs" root0="SKIP_HIGHLIGHTING" />
@@ -68,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663497048756</updated>
-      <workItem from="1663497056666" duration="22835000" />
+      <workItem from="1663497056666" duration="24471000" />
     </task>
     <task id="LOCAL-00001" summary="UI Button for interact with station">
       <created>1663497799201</created>
@@ -112,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663526552173</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add GameOverView">
+      <created>1663530110044</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663530110044</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +162,7 @@
     <MESSAGE value="Add random damage for train health" />
     <MESSAGE value="Add train recovery" />
     <MESSAGE value="Add level of break" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add level of break" />
+    <MESSAGE value="Add GameOverView" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add GameOverView" />
   </component>
 </project>
