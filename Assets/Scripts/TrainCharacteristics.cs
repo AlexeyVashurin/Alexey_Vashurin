@@ -19,7 +19,7 @@ namespace DefaultNamespace
             if (!instance)
             {
                 instance = this;
-                DontDestroyOnLoad(this);
+                // DontDestroyOnLoad(this);
             }
             else
                 Destroy(gameObject);
@@ -79,6 +79,11 @@ namespace DefaultNamespace
         public void SetBoxCount(int box)
         {
             _boxCount = _boxCount+box;
+        }
+
+        public int GetBoxCount()
+        {
+            return _boxCount;
         }
     }
 }

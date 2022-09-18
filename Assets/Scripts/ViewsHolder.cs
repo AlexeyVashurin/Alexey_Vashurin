@@ -13,7 +13,7 @@ public class ViewsHolder : MonoBehaviour
         if (!instance)
         {
             instance = this;
-            DontDestroyOnLoad(this);
+            // DontDestroyOnLoad(this);
         }
         else
             Destroy(gameObject);
@@ -23,4 +23,5 @@ public class ViewsHolder : MonoBehaviour
     public StationInteractView StationInteractView;
     public TrainControllerView TrainControllerView;
     public FixTrainView FixTrainView;
+    public GameOverView GameOverView;
 }

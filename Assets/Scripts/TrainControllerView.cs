@@ -16,15 +16,12 @@ public class TrainControllerView : MonoBehaviour
     {
         _trainSpeedScrollbar.onValueChanged.AddListener(arg0 => ChangeSpeedValue());
     }
-
     void ChangeSpeedValue()
     {
         _movingController.SetCurrentSpeed(_trainSpeedScrollbar.value * 5);
     }
-
     public void SetScrollbarNull()
     {
         _trainSpeedScrollbar.value = 0;
     }
-
 }
