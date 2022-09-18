@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using DefaultNamespace;
 using UnityEngine;
 
 public class MovingController : MonoBehaviour
@@ -9,10 +10,12 @@ public class MovingController : MonoBehaviour
     [SerializeField] private float _maxDistance;
     [SerializeField] private Path _path;
     private Transform pointInPath;
+    private TrainCharacteristics _trainCharacteristics;
     public void Start()
     {
         transform.position = _path.GetStartPosition().transform.position;
         pointInPath = _path.GetNextPathPoint();
+        _trainCharacteristics = TrainCharacteristics.instance;
     }
 
     public void Update()
@@ -53,7 +56,7 @@ public class MovingController : MonoBehaviour
         StopAllCoroutines();
         if (targetSpeed>0)
         {
-            StartCoroutine(AccelerateTrain(targetSpeed)); 
+            StartCoroutine(AccelerateTrain(targetSpeed));
         }
         else
         {
@@ -61,7 +64,6 @@ public class MovingController : MonoBehaviour
         }
         return targetSpeed;
     }
-
     private IEnumerator AccelerateTrain(float targetSpeed)
     {
         if (targetSpeed>0)
@@ -69,11 +71,12 @@ public class MovingController : MonoBehaviour
             while (_speed < 10)
             {
                 _speed += targetSpeed / 10;
-                yield return new WaitForSeconds(1f);
+                yield return new WaitForSeconds(2f);
             }
+
+            //StartCoroutine(_trainCharacteristics.SetDamage());
         }
     }
-
     private IEnumerator BrakeTrain(float targetSpeed)
     {
         if (targetSpeed < 0.1)
@@ -84,6 +87,7 @@ public class MovingController : MonoBehaviour
                 yield return new WaitForSeconds(0.5f);
             }
             _speed = 0;
+            _trainCharacteristics.StopDamage();
         }
     }
 }
