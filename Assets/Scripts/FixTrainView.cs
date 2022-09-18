@@ -8,14 +8,14 @@ namespace DefaultNamespace
     public class FixTrainView : MonoBehaviour
     {
         [SerializeField] private Button FixButton;
-        private TrainCharacteristics _trainCharacteristics;
+        private TrainCharacteristics trainCharacteristics;
 
         private void Start()
         {
-            _trainCharacteristics = TrainCharacteristics.instance;
+            trainCharacteristics = TrainCharacteristics.instance;
             FixButton.onClick.AddListener(() =>
             {
-                _trainCharacteristics.TrainRecovery();
+                trainCharacteristics.TrainRecovery();
             });
         }
     }
