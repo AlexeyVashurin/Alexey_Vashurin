@@ -13,7 +13,6 @@ public class Station : MonoBehaviour
         instance = ViewsHolder.instance;
         boxAvialible = true;
     }
-
     public void OnTriggerStay(Collider other)
     {
         if (other.CompareTag("Train") && other.GetComponent<MovingController>().GetCurrentSpeed() == 0 && boxAvialible)
@@ -22,7 +21,6 @@ public class Station : MonoBehaviour
             boxAvialible = false;
         }
     }
-
     public void OnTriggerExit(Collider other)
     {
         if (other.CompareTag("Train"))

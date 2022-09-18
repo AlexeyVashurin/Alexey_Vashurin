@@ -47,4 +47,10 @@ public class MovingController : MonoBehaviour
     {
         return _speed;
     }
+
+    public float SetCurrentSpeed(float speed)
+    {
+        _speed = speed;
+        return speed;
+    }
 }

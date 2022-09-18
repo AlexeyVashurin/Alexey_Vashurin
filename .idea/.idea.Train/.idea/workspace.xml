@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2f530be-113e-430e-8d45-33f1f99ac185" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea.Train/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea.Train/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea.Train/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestTrain/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestTrain/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestTrain.dir/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestTrain.dir/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestTrain.dir/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestTrain/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestTrain/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestTrain/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Train/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Train/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Train/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="d2f530be-113e-430e-8d45-33f1f99ac185" name="Changes" comment="UI Button for interact with station">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Train/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Train/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MovingController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MovingController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Station.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Station.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StationInteractView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StationInteractView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TrainControllerView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TrainControllerView.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +59,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663497048756</updated>
-      <workItem from="1663497056666" duration="612000" />
+      <workItem from="1663497056666" duration="2729000" />
     </task>
+    <task id="LOCAL-00001" summary="UI Button for interact with station">
+      <created>1663497799201</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663497799201</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,5 +103,7 @@
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="UI Button for interact with station" />
+    <option name="LAST_COMMIT_MESSAGE" value="UI Button for interact with station" />
   </component>
 </project>
