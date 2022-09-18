@@ -11,6 +11,10 @@ public class StationInteractView: MonoBehaviour
     private void Start()
     {
         trainCharacteristics = TrainCharacteristics.instance;
-        _takeBox.onClick.AddListener(()=>trainCharacteristics.SetBoxCount(1));
+        _takeBox.onClick.AddListener(()=>
+        {
+            trainCharacteristics.SetBoxCount(1);
+            gameObject.SetActive(false);
+        });
     }
 }

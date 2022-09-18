@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="731bbf1d-cc4c-4f16-ab46-26dc623bbc3c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/FBX/3dsMaxDesign2014_X64/Logs/2015.0/max2014exp.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/FBX/3dsMaxDesign2014_X64/Presets/2015.0/export/User defined.fbxexportpreset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/autoback/AutoBackup01.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/autoback/AutoBackup02.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/autoback/AutoBackup03.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/import/gwObj_import.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/BARK5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/BWom0001-M3-Body-D.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/BWom0001-M3-Body-N.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/BWom0001-M3-Body-S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/BWom0001-M3-Hair-D.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/BWom0001-M3-Hair-D.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/BWom0001-M3-Hair-N.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/BWom0001-M3-Hair-S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/BWom0001-M3-Head-D.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/BWom0001-M3-Head-N.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/BWom0001-M3-Head-S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/CMan0002-M3-Body-D.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/CMan0002-M3-Body-N.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/CMan0002-M3-Body-S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/CMan0002-M3-Hair-D.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/CMan0002-M3-Hair-N.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/CMan0002-M3-Hair-S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/CMan0002-M3-Head-D.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/CMan0002-M3-Head-N.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/CMan0002-M3-Head-S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/Concrete.Precast Structural Concrete.Smooth.bump.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/Concrete.Precast Structural Concrete.Smooth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/Copy of lizardsk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/FaceRigImg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/JP_Brick01_Bump.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/MAX.DIR" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/PrimerFrame_Box_modeling.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/Snake Skin.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/WaterHudson21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/alpha.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/colors.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/emissive.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/gloss.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/grass.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/license plates.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/normals.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/pedestal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/skin_mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/specular.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/images/troll_cleric29_max2010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/sceneassets/renderassets/main.xmsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/03 Ik-joe (Spline IK).max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/BWom0001-M3-CS.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/BWom0001-M3-Cat.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/CMan0002-M3-CS.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/CMan0002-M3-Cat.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/CP_FunWithSpawning01.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/FlockFormation.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/Ford Focus.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/HeadHudAnible.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/Hymer Camper.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/IK_FK_blend.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/InkPaintSnake.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/MAX.DIR" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/PrimerFrame_Box_modeling.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/Rain.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/Shadows-VolumeLight.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/Smoke-VolumeLight.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/Studio_scene_share.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/Underwater.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/abix-fall-splineIK.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/bmw 7.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/fuzzy_tentacle_love.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/grass.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3dsMaxDesign/scenes/troll_cleric29_max2010.max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Adobe Media Encoder/11.0/AMEPrefs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/AMERequestDB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Adobe Premiere Pro Audio Previews/Без названия1.PRV/0c035102-d6ec-4ee2-b2ce-03b550d09e3c+4f8b20b6-4e23-339d-81fa-61b100000049 48000.cfa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Adobe Premiere Pro Audio Previews/Без названия1.PRV/Peak Files/0c035102-d6ec-4ee2-b2ce-03b550d09e3c+4f8b20b6-4e23-339d-81fa-61b100000049 48000.pek" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Adobe Premiere Pro Auto-Save/Без названия-1.prproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Adobe Premiere Pro Auto-Save/Без названия-2.prproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Adobe Premiere Pro Auto-Save/Без названия-3.prproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Adobe Premiere Pro Auto-Save/Без названия1-1.prproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Adobe Premiere Pro Auto-Save/Без названия1-2.prproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Adobe Premiere Pro Auto-Save/Без названия1-3.prproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Adobe Premiere Pro Auto-Save/Без названия1-4.prproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Adobe Premiere Pro Auto-Save/Без названия1-5.prproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Adobe Premiere Pro Auto-Save/Без названия1-6.prproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Adobe Premiere Pro Auto-Save/Без названия1-7.prproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Adobe Premiere Pro Auto-Save/Без названия1-8.prproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Profile-mamas/Adobe Premiere Pro Prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Profile-mamas/Effect Presets and Custom Items.prfpset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Profile-mamas/Layouts/UserWorkspace1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Profile-mamas/Layouts/WorkspaceConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Profile-mamas/Media Browser Provider Exception" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Profile-mamas/Recent Directories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Profile-mamas/Settings/Overlay Presets/Custom Overlay.olp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Profile-mamas/SharedView Column Settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Без названия.prproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Без названия1.prproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Гражданская Оборона - На наших глазах - 8-bit Mix (1).mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adobe/Premiere Pro/11.0/Гражданская Оборона - На наших глазах - 8-bit Mix (1)_1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bandicam/bandicam 2021-03-03 19-46-27-477.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bandicam/bandicam 2021-03-03 19-48-53-608.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bandicam/bandicam 2021-03-03 19-52-32-083.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bandicam/bandicam 2021-03-03 19-56-58-896.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bandicam/bandicam 2021-03-03 20-05-25-626.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bandicam/bandicam 2021-03-03 21-21-14-931.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bandicam/bandicam 2021-03-03 21-22-31-614.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bandicam/bandicam 2021-03-03 21-23-47-780.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/settings/PROFSAVE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/settings/PROFSAVE_backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/settings/PROFSAVE_backup_profile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/settings/PROFSAVE_backup_profile_synced" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/settings/PROFSAVE_profile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/settings/PROFSAVE_profile_synced" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/assets/ar_SA-06566581.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/assets/cs_CZ-da9ddbb2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/assets/de_DE-a2ab61e6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/assets/en_US-5dab477a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/assets/es_ES-aa75f234.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/assets/es_MX-8564268d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/assets/fr_FR-ce259e27.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/assets/it_IT-b3f983c7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/assets/ja_JP-d1348e3e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/assets/ko_KR-9f193eba.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/assets/pl_PL-b1e99781.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/assets/pt_BR-29e7059d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/assets/ru_RU-ec283986.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/assets/tr_TR-4ea4a1a3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/assets/zh_CN-ef12f663.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/assets/zh_TW-0d657585.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/bundle-26502.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/kvstore/kv_first_time_takeover" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/kvstore/kv_gameMode-CQ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/kvstore/kv_gameMode-TDM" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/kvstore/kv_hubble-uuid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/kvstore/kv_legal_companion" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/kvstore/kv_onboardingPlay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/kvstore/kv_soldier_selection" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/kvstore/kv_twinkleCurrentJSbundleCL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/manifest-26502" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A10162211388302108740" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A10410887244101717969" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A10584318119874033954" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A10658456042068742044" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A11015188899991301036" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A11517169729033319134" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A11676464049470094489" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A12201950576299149864" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A12318845390404469318" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A12797278789361878445" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A12942190999369783623" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A12984429651205195945" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A13070300806662388852" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A13540415267611478958" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A13606238935182617635" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A13691268676174972995" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A14105403766430741140" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A14180168923879893507" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A14362514745435361852" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A14628273406153311724" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A14942792055464007067" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A14976550730211004140" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A15099457189345987074" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A15147078173439729448" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A15321265030770598464" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A1554384582995935171" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A15601466895186682407" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A15688393029814211094" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A16160559820850313756" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A16162712464799070135" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A16196559083607218491" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A16271451684870524017" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A1659023730773445294" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A16759246509075315500" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A16761474659375150918" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A16917102813928847739" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A16962315984554104364" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A17187825370200116193" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A17225724725734429352" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A17363645570008668369" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A17404692250825650256" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A18241901403666173865" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A18298421176543586073" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A18311502621860855927" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A18356831025293694840" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A18433579818555793135" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A1921729516157537155" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A2351994505903312699" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A2455110774247182289" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A2667343122891847054" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A3461009353304981590" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A349177567210694688" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A3892749822625091496" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A3898030919192632053" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A3940163156085303355" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A4145089718778609492" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A4196499326616797005" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A4377287312142214683" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A4610260051537275335" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A4664053864490938081" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A488880886286325248" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A5636004689896017568" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A584595547456078329" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A588062362244624705" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A5910972540702230273" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A5998989659883356697" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A622961496104226394" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A6350783331599016088" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A637159857464624039" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A6478469433753530669" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A7061519918262009116" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A7065799603949472884" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A7159644117973278476" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A7322777807682504710" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A7663863328178208127" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A7993945211564512882" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A7998897695097040575" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A8171119146191880877" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A8283776619636570517" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A8507013168332388173" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A9015881423104897902" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A9028607445977044993" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A9115156579947941745" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A9165306934738595914" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A9282737300908499137" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A9289252194897512859" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A9458996971225713428" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A9461777572905494686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A9807304124271789885" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A9838372342945772280" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battlefield V/twinkle/temp/httpcache/A9970865109770732986" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBProjects/NewProject/library/Монтажная область 10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBProjects/NewProject/library/Монтажная область 11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBProjects/NewProject/library/Монтажная область 5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBProjects/NewProject/library/Монтажная область 7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBProjects/NewProject/library/Монтажная область 8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBProjects/NewProject/library/Монтажная область 9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBProjects/NewProject/runtarakan.dbproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Environments.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Environments/CubeRoom.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Environments/CubeRoom.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Environments/CubeRoom.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Environments/CubeRoom.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Environments/CubeRoom_BakedDiffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Environments/CubeRoom_BakedDiffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Environments/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Environments/Materials/CubeRoomEnvMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Environments/Materials/CubeRoomEnvMat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Models/Icosahedron.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Models/Icosahedron.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Models/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Models/Materials/IcosahedronBlue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Models/Materials/IcosahedronBlue.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Models/Materials/IcosahedronPink.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Models/Materials/IcosahedronPink.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Models/Materials/QuadSphereBlue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Models/Materials/QuadSphereBlue.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Models/Materials/QuadSpherePink.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Models/Materials/QuadSpherePink.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Models/Materials/TriSphereBlue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Models/Materials/TriSphereBlue.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Models/Materials/TriSpherePink.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Models/Materials/TriSpherePink.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Models/QuadSphere.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Models/QuadSphere.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Models/TriSphere.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Models/TriSphere.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Scenes/HelloCardboard.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Scenes/HelloCardboard.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Scenes/VrMode.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Scenes/VrMode.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Scripts/CameraPointer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Scripts/CameraPointer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Scripts/CardboardStartup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Scripts/CardboardStartup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Scripts/ObjectController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Scripts/ObjectController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Scripts/VrModeController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Scripts/VrModeController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Textures/Icosahedron_Blue_BakedDiffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Textures/Icosahedron_Blue_BakedDiffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Textures/Icosahedron_Pink_BakedDiffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Textures/Icosahedron_Pink_BakedDiffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Textures/QuadSphere_Blue_BakedDiffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Textures/QuadSphere_Blue_BakedDiffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Textures/QuadSphere_Pink_BakedDiffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Textures/QuadSphere_Pink_BakedDiffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Textures/TriSphere_Blue_BakedDiffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Textures/TriSphere_Blue_BakedDiffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Textures/TriSphere_Pink_BakedDiffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.google.xr.cardboard@bca15f76c8/Samples~/hellocardboard-unity/Textures/TriSphere_Pink_BakedDiffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.collab-proxy@1.3.9/Documentation~/images/example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.collab-proxy@1.3.9/Documentation~/unity-cloud-collaborate.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.ext.nunit@1.0.5/Documentation~/ext.nunit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.ide.rider@2.0.7/Documentation~/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.ide.rider@2.0.7/Documentation~/TableOfContents.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.ide.rider@2.0.7/Documentation~/images/preferences-rider-tab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.ide.rider@2.0.7/Documentation~/images/preferences-settings-external-tools-window.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.ide.rider@2.0.7/Documentation~/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.ide.rider@2.0.7/Documentation~/using-the-jetbrains-rider-editor-package.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.ide.visualstudio@2.0.5/Documentation~/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.ide.vscode@1.2.3/Documentation~/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.subsystemregistration@1.0.6/Documentation~/com.unity.subsystemregistration.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/TableOfContents.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/edit-mode-vs-play-mode-tests.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/extending.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/extension-get-test-results.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/extension-retrieve-test-list.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/extension-run-tests.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/getting-started.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/images/editmode-create-test-script.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/images/editmode-run-test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/images/editmode-run-tests.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/images/editmode-tab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/images/import-settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/images/new-test-script.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/images/playmode-enable-all.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/images/playmode-results-standalone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/images/playmode-run-standalone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/images/playmode-tab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/images/test-runner-window.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/images/test-templates.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/images/tests-folder-assembly.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/manual.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-actions-outside-tests.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-attribute-conditionalignore.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-attribute-testmustexpectalllogs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-attribute-testplayerbuildmodifier.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-attribute-testruncallback.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-attribute-unityplatform.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-attribute-unitytest.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-command-line.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-comparer-color.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-comparer-equals.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-comparer-float.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-comparer-quaternion.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-comparer-vector2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-comparer-vector3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-comparer-vector4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-custom-assertion.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-custom-attributes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-custom-constraints.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-custom-equality-comparers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-custom-yield-instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-execution-settings.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-filter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-icallbacks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-ierror-callbacks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-itest-adaptor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-itest-result-adaptor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-itest-run-settings.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-recompile-scripts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-setup-and-cleanup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-test-runner-api.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-test-utils.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-tests-monobehaviour.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-tests-parameterized.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/reference-wait-for-domain-reload.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/resources.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/workflow-create-playmode-test.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/workflow-create-test-assembly.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/workflow-create-test.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/workflow-run-playmode-test-standalone.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.test-framework@1.1.19/Documentation~/workflow-run-test.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.textmeshpro@3.0.1/Documentation~/TextMeshPro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.textmeshpro@3.0.1/Documentation~/TextMeshPro.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/TableOfContents.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/clp_about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/clp_add.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/clp_blend.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/clp_dup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/clp_ease.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/clp_gap_extrap.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/clp_insert.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/clp_match.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/clp_pan_zoom.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/clp_position.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/clp_reset.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/clp_select.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/clp_speed.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/clp_split.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/clp_tile.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/clp_trim.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/crv_about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/crv_hide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/crv_keys_add.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/crv_keys_del.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/crv_keys_edit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/crv_keys_interp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/crv_keys_sel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/crv_nav.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/filter.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/grp_hide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/grp_lock.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/grp_use.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_add_track_menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_animation_window_locked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_cinematic_example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clip_blend_area.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clip_double_speed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clip_duplicate_before.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clip_duplicate_clip_after.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clip_duplicate_clip_before.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clip_duplicate_project.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clip_ease_in_bad_gap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clip_ease_in_good_gap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clip_ease_in_out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clip_ease_in_override_scene.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clip_ease_in_override_track.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clip_split_after.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clip_split_before.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clip_trim_end_keys.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clip_trim_loop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clip_trim_start_keys.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clips_anim_clip_timing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clips_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clips_position_invalid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clips_positioning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clips_select_first.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clips_select_last.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clips_split_after.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clips_split_before.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clips_tile_result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clips_tile_selection.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clips_view.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clips_view_adding.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clips_view_inserting_after.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_clips_view_inserting_before.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_cog_menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_curves_first_last_tangent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_curves_interp_menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_curves_tangent_joined.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_curves_view_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_curves_view_position_x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_curves_view_select_contiguous.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_curves_view_select_key.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_duration_mode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_editor_bindings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_editor_create.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_editor_project.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_editor_to_start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_end_button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_frames_subframes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_gap_extrap_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_gap_extrap_two_tracks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_humanoid_after_match.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_humanoid_before_match.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_humanoid_blend.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_humanoid_idle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_humanoid_manual.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_humanoid_match_menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_humanoid_runleft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_humanoid_start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_inspector_activation_clip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_inspector_activation_track.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_inspector_anim_extrap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_inspector_animation_clip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_inspector_animation_clip_common.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_inspector_animation_clip_playable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_inspector_animation_track.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_inspector_audio_clip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_inspector_blend_curves.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_inspector_clip_speed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_inspector_clip_timing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_inspector_control_clip_common.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_inspector_control_clip_playable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_inspector_curve_editor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_inspector_ease_in_blend_out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_inspector_ease_in_out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_inspector_multiple_selection.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_inspector_narrow_selection.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_inspector_playable_director.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_inspector_timeline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_last_loop_before.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_last_loop_complete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_last_loop_trim.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_masking_avatar_inspector.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_masking_avatar_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_masking_avatar_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_masking_override.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_masking_override_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_masking_start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_masking_waving.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_match_clip_many.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_match_clip_two.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_match_prematch_clips.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_match_prematch_scene.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_mix_mode_blend_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_mix_mode_position_cursor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_move_track_after copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_move_track_after.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_move_track_before.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_nesting_editing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_nesting_example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_nesting_global.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_nesting_local.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_next_frame_button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_overview_asset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_overview_enemy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_overview_instance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_overview_player.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_play_button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_play_range.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_play_range_button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_playback_controls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_playhead_insert_100_after.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_playhead_insert_before.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_playhead_insert_menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_playhead_location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_playhead_select_menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_playhead_trim_after.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_playhead_trim_before.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_preview_selector.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_previous_frame_button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_property_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_replace_mode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_replace_mode_red_cut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_ripple_mode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_ripple_mode_yellow_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_start_button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_track_alert_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_track_duplicate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_track_group_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_track_group_hidden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_track_group_locked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_track_group_plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_track_list.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_track_locked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_track_muted.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_track_priority.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_track_reorder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_track_select_first.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_track_select_last.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_workflow_clip_in_project.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_workflow_converted_clip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_workflow_dopesheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_workflow_keyframing_menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_workflow_record_button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_workflow_recorded_clip_track_menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_workflow_recording.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_workflow_recording_diamonds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_zoombar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/timeline_zoomed_clip_edit_modes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/workflow_inspector_animation_clip_playable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/workflow_nesting_control_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/workflow_nesting_done.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/workflow_nesting_double_click.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/workflow_nesting_drag_board.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/workflow_nesting_edit_warning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/images/workflow_nesting_master.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/insp_about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/insp_clp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/insp_clp_act.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/insp_clp_anim_com.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/insp_clp_anim_plyb.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/insp_clp_aud.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/insp_clp_ctrl_com.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/insp_clp_ctrl_plyb.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/insp_tl.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/insp_trk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/insp_trk_act.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/insp_trk_anim.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/play_director.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/tl_about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/tl_gloss.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/tl_play_cntrls.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/tl_selector.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/tl_settings.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/tl_window.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/trk_add.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/trk_delete.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/trk_dup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/trk_list_about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/trk_lock.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/trk_mute.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/trk_reorder.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/trk_select.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/wf_about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/wf_char_anim.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/wf_conv_infinite.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/wf_instance.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/wf_mask.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/wf_nested.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.timeline@1.4.4/Documentation~/wf_rec_anim.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/ArmModels.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/ArmModelImages/ExampleTransitionalArmModelSetup.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/ArmModelImages/TrackedPoseDriverArmModelExample.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/ArmModelImages/armmodelbase.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/ArmModelImages/swingarmmodel.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/ArmModelImages/transitionalarmmodel.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/assetmenu.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/cameraoffset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/cameraoffsetoptions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/complex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/convertedscene.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/deviceselection.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/deviceselection.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/newscene.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/poseselection.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/poseselection.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/prefabinstance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/prefablocation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/simple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/trackedposedriver.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/trackedposedriver.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/trackingtypeselection.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/trackingtypeselection.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/updatetypeselection.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/updatetypeselection.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/upgrademenuoption.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/xrrigprefabcontents.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/Images/xrrigtpddefaults.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/TableOfContents.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.6/Documentation~/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Documentation~/EndUser.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Documentation~/Provider.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Documentation~/com.unity.xr.management.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Samples~/.sample.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Samples~/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Samples~/Editor/SampleBuildProcessor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Samples~/Editor/SampleBuildProcessor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Samples~/Editor/SampleMetadata.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Samples~/Editor/SampleMetadata.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Samples~/Editor/SampleSettingsEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Samples~/Editor/SampleSettingsEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Samples~/Editor/Unity.XR.Management.Samples.Editor.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Samples~/Editor/Unity.XR.Management.Samples.Editor.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Samples~/SampleConstants.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Samples~/SampleConstants.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Samples~/SampleLoader.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Samples~/SampleLoader.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Samples~/SampleSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Samples~/SampleSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Samples~/Unity.XR.Management.Samples.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xr.management@3.2.13/Samples~/Unity.XR.Management.Samples.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/keybindings.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/rendersettings.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/D4S.Profile0pp_9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/UD4O.ProfileLastSave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/UD4O.ProfileOptions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/UD4S.MainNormal0-1LevelAndSpawnPoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/UD4S.MainNormal0-1WorldState" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/UD4S.MainNormal00LevelAndSpawnPoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/UD4S.MainNormal00WorldState" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/UD4S.MainNormal01LevelAndSpawnPoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/UD4S.MainNormal01WorldState" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/UD4S.MainNormal02LevelAndSpawnPoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/UD4S.MainNormal02WorldState" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/UD4S.MainNormal03LevelAndSpawnPoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/UD4S.MainNormal03WorldState" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/UD4S.MainNormal04LevelAndSpawnPoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/UD4S.MainNormal04WorldState" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/UD4S.MainNormal05LevelAndSpawnPoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/UD4S.MainNormal05WorldState" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../My Games/Dead Rising 4/saves/76561197960267366/UD4S.Profile0PlayerStats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProfileCache/1084003599" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProfileCache/1118326751" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProfileCache/1519531762" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProfileCache/2627095265" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProfileCache/2832704625" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProfileCache/295585556" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProfileCache/3449067770" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProfileCache/3483386410" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProfileCache/3617209095" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProfileCache/635414916" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/Profiles/306B491C/PGTA51021186552" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/Profiles/306B491C/PGTA549626085" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/Profiles/306B491C/PGTA5596241291" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/Profiles/306B491C/SGTA50000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/Profiles/306B491C/SGTA50001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/Profiles/306B491C/SGTA50002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/Profiles/306B491C/SGTA50003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/Profiles/306B491C/SGTA50005" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/Profiles/306B491C/SGTA50007" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/Profiles/306B491C/SGTA50008" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/Profiles/306B491C/SGTA50009" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/Profiles/306B491C/SGTA50010" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/Profiles/306B491C/SGTA50015" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/Profiles/306B491C/SGTA50015.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/Profiles/306B491C/cfg.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/Profiles/306B491C/cloudsavedata.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/Profiles/306B491C/pc_settings.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/videos/clips/20-Фев.-2021-Клип-0001.clip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/videos/clips/20-Фев.-2021-Клип-0001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/videos/clips/20-Фев.-2021-Клип-0002.clip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/videos/clips/20-Фев.-2021-Клип-0002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/videos/clips/20-Фев.-2021-Клип-0003.clip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/videos/clips/20-Фев.-2021-Клип-0003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/videos/clips/20-Фев.-2021-Клип-0004.clip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/videos/clips/20-Фев.-2021-Клип-0004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/videos/clips/20-Фев.-2021-Клип-0005.clip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/videos/clips/20-Фев.-2021-Клип-0005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/videos/clips/7-Мая-2021-Клип-0001.clip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/videos/clips/7-Мая-2021-Клип-0001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/videos/clips/7-Мая-2021-Клип-0002.clip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/GTA V/videos/clips/7-Мая-2021-Клип-0002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Launcher/Profiles/306B491C/profiletitles.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Launcher/Profiles/306B491C/settings_account.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Launcher/launcher.01.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Launcher/launcher.02.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Launcher/launcher.03.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Launcher/launcher.04.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Launcher/launcher.05.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Launcher/launcher.06.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Launcher/launcher.07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Launcher/launcher.08.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Launcher/launcher.09.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Launcher/launcher.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Red Dead Redemption 2/Profiles/0F74F4C4/SRDR30015" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Red Dead Redemption 2/Profiles/0F74F4C4/SRDR30015.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Red Dead Redemption 2/Settings/1798635104_259323076.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Red Dead Redemption 2/Settings/3087821544_259323076.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Red Dead Redemption 2/Settings/400042567_259323076.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Red Dead Redemption 2/Settings/594033165_259323076.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Red Dead Redemption 2/Settings/626544054_259323076.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Red Dead Redemption 2/Settings/sga_vulkan_final_init.pipelineMarkerFile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Red Dead Redemption 2/Settings/sga_vulkan_final_init.vkPipelineCacheHeaderWindows" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Red Dead Redemption 2/Settings/sga_vulkan_final_init.vkPipelineCacheWindows" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Red Dead Redemption 2/Settings/sga_vulkan_final_init.vkWarmupCacheWindows" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Red Dead Redemption 2/Settings/sga_win32_60_final_init.d3d12PipelineCacheWindows" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Red Dead Redemption 2/Settings/sga_win32_60_final_init.d3d12WarmupCacheWindows" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Red Dead Redemption 2/Settings/sga_win32_60_final_init.pipelineMarkerFile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Red Dead Redemption 2/Settings/system.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Cache/Images/Avatars/128x128/default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Cache/Images/Avatars/32x32/default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Cache/Images/Avatars/default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Cache/browser_cache_settings.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Cache/data_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Cache/data_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Cache/data_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Cache/data_3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Cache/f_000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Cache/f_000002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Cache/f_000004" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Cache/f_000005" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Cache/f_000006" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Cache/f_000007" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Cache/f_000008" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Cache/f_000009" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Cache/f_00000a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Cache/f_00000b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Cache/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Code Cache/js/334585171bedcaf9_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Code Cache/js/38d4f4d9f022d057_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Code Cache/js/4939badc601754f1_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Code Cache/js/750bbd5420bcf695_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Code Cache/js/7bc6a88b25da7fd6_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Code Cache/js/c1caed866c0aa4b2_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Code Cache/js/c2f57e6d0ec785ca_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Code Cache/js/f15605bc80c2615a_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Code Cache/js/fe2c7b4ec890aae7_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Code Cache/js/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Code Cache/js/index-dir/the-real-index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Code Cache/wasm/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Code Cache/wasm/index-dir/the-real-index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Cookies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Cookies-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/GPUCache/data_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/GPUCache/data_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/GPUCache/data_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/GPUCache/data_3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/GPUCache/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Local Storage/leveldb/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Local Storage/leveldb/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Local Storage/leveldb/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Local Storage/leveldb/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Local Storage/leveldb/LOG.old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Local Storage/leveldb/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/LocalPrefs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Network Persistent State" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/QuotaManager" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/QuotaManager-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Reporting and NEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Reporting and NEL-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Service Worker/CacheStorage/7c129e28a53a20755871f994f1997209760a9724/index.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Service Worker/Database/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Service Worker/Database/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Service Worker/Database/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Service Worker/Database/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Service Worker/Database/LOG.old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Service Worker/Database/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Service Worker/ScriptCache/67a473248953641b_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Service Worker/ScriptCache/fa813c9ad67834ac_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Service Worker/ScriptCache/fa813c9ad67834ac_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Service Worker/ScriptCache/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Service Worker/ScriptCache/index-dir/the-real-index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Session Storage/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Session Storage/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Session Storage/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Session Storage/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Session Storage/LOG.old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Session Storage/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/TransportSecurity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/Visited Links" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/databases/Databases.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Launcher/Renderer/databases/Databases.db-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Profiles/306B491C/Titles/GTA V/achievements.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Profiles/306B491C/profile.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/data_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/data_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/data_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/data_3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000005" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000006" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_00000f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000010" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000011" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000012" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000013" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000014" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000015" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000016" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000017" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000018" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000019" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_00001a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_00001b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_00001c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_00001d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_00001e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_00001f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000020" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000021" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000022" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000023" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000024" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000025" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000026" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000027" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000028" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000029" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_00002a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_00002b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_00002c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_00002d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_00002e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_00002f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000030" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000032" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000037" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000039" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_00003f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000040" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000041" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000042" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000043" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000044" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000045" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000047" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000048" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_000049" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_00004a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_00004b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_00004c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_00004d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/f_00004e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cache/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Code Cache/js/0b0b1811fe1d2327_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Code Cache/js/22f4e43044655e5e_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Code Cache/js/38d4f4d9f022d057_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Code Cache/js/4aed46c6d7580aac_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Code Cache/js/507e44eba36b646e_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Code Cache/js/586907bb882830cc_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Code Cache/js/7bc6a88b25da7fd6_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Code Cache/js/921f48e28dfdda19_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Code Cache/js/98b2ecfb59d5adc9_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Code Cache/js/b776a1c89d60b904_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Code Cache/js/ba9b95b59171ab0e_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Code Cache/js/c7261a8cb05c354f_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Code Cache/js/cd3c9886f00980f3_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Code Cache/js/e9e13fbc337ae793_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Code Cache/js/f4130a085bd9ded7_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Code Cache/js/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Code Cache/js/index-dir/the-real-index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Code Cache/wasm/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Code Cache/wasm/index-dir/the-real-index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cookies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Cookies-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/GPUCache/data_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/GPUCache/data_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/GPUCache/data_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/GPUCache/data_3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/GPUCache/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Local Storage/leveldb/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Local Storage/leveldb/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Local Storage/leveldb/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Local Storage/leveldb/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Local Storage/leveldb/LOG.old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Local Storage/leveldb/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/LocalPrefs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Network Persistent State" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Reporting and NEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Reporting and NEL-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Session Storage/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Session Storage/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Session Storage/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Session Storage/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Session Storage/LOG.old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Session Storage/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/TransportSecurity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Renderer/Visited Links" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/Titles/GTA V/metadata.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/socialclub.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rockstar Games/Social Club/socialclub_launcher.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265.netprof.trk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265.session.trk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_126207261_3626642.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_126217247_3626642.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_126240737_3626639.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_126278835_3626638.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_126278835_3626642.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_126288183_3626642.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_127033441_3626638.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_127033441_3626642.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_127120070_3626638.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_127120070_3626642.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_127180744_3626642.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_35924704_3626638.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_35924704_3626639.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_35924704_3626642.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_3626650_3626638.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_3626650_3626640.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_3626650_3626641.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_3626650_3626642.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_3626650_3626643.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_3626659_3626638.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_42135362_3626638.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_44909859_3626638.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_44909859_3626641.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_44909859_3626642.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_44909859_3626643.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_51403518_3626638.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_51403518_3626639.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_51403518_3626641.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_51403518_3626642.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_83301196_3626638.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_83301196_3626639.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_83301196_3626642.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/CollectionSnapshots/veh_89313994_3626638.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/10376293541462113265/snapshotVersion.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/Bindings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/Config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/PCScalability.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/Preferences.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/VehicleConfigSnapshots/vehcfg_126311067.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/VehicleConfigSnapshots/vehcfg_126315087.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/VehicleConfigSnapshots/vehcfg_126772672.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/VehicleConfigSnapshots/vehcfg_126889186.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/VehicleConfigSnapshots/vehcfg_127106811.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/VehicleConfigSnapshots/vehcfg_127109159.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/VehicleConfigSnapshots/vehcfg_127111397.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/VehicleConfigSnapshots/vehcfg_127119936.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/VehicleConfigSnapshots/vehcfg_127150073.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/VehicleConfigSnapshots/vehcfg_44076488.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/VehicleConfigSnapshots/vehcfg_44076489.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/VehicleConfigSnapshots/vehcfg_44076490.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/VehicleConfigSnapshots/vehcfg_44076491.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/VehicleConfigSnapshots/vehcfg_89409074.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../The Crew/VehicleConfigSnapshots/vehcfg_89409076.xbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../XuanZhi/Pictures/cache/1877704287" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../desktop.ini" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Et1qI4aCpC7uMQOqGwuafiugfG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="rider.run.widget.enabled.cache" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="731bbf1d-cc4c-4f16-ab46-26dc623bbc3c" name="Changes" comment="" />
+      <created>1663400267410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663400267410</updated>
+      <workItem from="1663400328048" duration="117000" />
+      <workItem from="1663400628100" duration="11381000" />
+      <workItem from="1663496861008" duration="109000" />
+      <workItem from="1663497011702" duration="41000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add Train Model, add rotation for train">
+      <created>1663404626595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663404626595</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update scene">
+      <created>1663406813150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663406813150</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add stations and functional for stations">
+      <created>1663444623751</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663444623751</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Add Train Model, add rotation for train" />
+    <MESSAGE value="Update scene" />
+    <MESSAGE value="Add stations and functional for stations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add stations and functional for stations" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Station.cs</url>
+          <line>15</line>
+          <properties documentPath="D:\Repositories\TestTrain\Assets\Scripts\Station.cs" initialLine="15" containingFunctionPresentation="method 'OnTriggerStay'">
+            <startOffsets>
+              <option value="297" />
+            </startOffsets>
+            <endOffsets>
+              <option value="298" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
