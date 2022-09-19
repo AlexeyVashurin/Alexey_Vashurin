@@ -5,8 +5,6 @@ namespace DefaultNamespace
 {
     public class TrainCharacteristics : MonoBehaviour
     {
-        
-        
         [SerializeField]private int _trainHealth;
         [SerializeField]private int _boxCount;
         [SerializeField] private int _breakdownLevel;
@@ -19,7 +17,6 @@ namespace DefaultNamespace
             if (!instance)
             {
                 instance = this;
-                // DontDestroyOnLoad(this);
             }
             else
                 Destroy(gameObject);
@@ -27,7 +24,6 @@ namespace DefaultNamespace
             movingController = GetComponent<MovingController>();
             viewsHolder = ViewsHolder.instance;
         }
-
         public void SetDamage()
         {
             if (movingController.GetCurrentSpeed() > 0)
@@ -35,12 +31,10 @@ namespace DefaultNamespace
                 StartCoroutine(DamageCoroutine());  
             }
         }
-
         public void StopDamage()
         {
             StopCoroutine(DamageCoroutine());
         }
-
         private IEnumerator DamageCoroutine()
         {
             while (_trainHealth > 0)
@@ -49,13 +43,11 @@ namespace DefaultNamespace
                 viewsHolder.HealthTrainView.SetSliderValue((float)_trainHealth);
                 yield return new WaitForSeconds(3f);
             }
-
             _breakdownLevel = Random.Range(1, 5);
             viewsHolder.FixTrainView.gameObject.SetActive(true);
             movingController.SetCurrentSpeed(0);
             viewsHolder.TrainControllerView.gameObject.SetActive(false);
         }
-
         public void TrainRecovery()
         {
             if (_trainHealth <=0)
@@ -63,7 +55,6 @@ namespace DefaultNamespace
                 StartCoroutine(RecoveryCoroutine());
             }
         }
-
         private IEnumerator RecoveryCoroutine()
         {
             while (_trainHealth <100)
@@ -77,12 +68,11 @@ namespace DefaultNamespace
             viewsHolder.TrainControllerView.SetScrollbarNull();
             StopAllCoroutines();
         }
-
         public void SetBoxCount(int box)
         {
             _boxCount = _boxCount+box;
+            viewsHolder.HealthTrainView.SetCountOfBox(_boxCount);
         }
-
         public int GetBoxCount()
         {
             return _boxCount;
