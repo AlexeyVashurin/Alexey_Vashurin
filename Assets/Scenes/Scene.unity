@@ -2583,7 +2583,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d158189e0d2c48c6bd95e7679effc164, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _fixButton: {fileID: 0}
+  _fixButton: {fileID: 454313892}
 --- !u!224 &927561301
 RectTransform:
   m_ObjectHideFlags: 0

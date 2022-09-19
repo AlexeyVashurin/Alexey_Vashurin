@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b88ac47-59f2-411a-8882-bd726cce8edb" name="Changes" comment="Update Scene">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Views/TrainSignalView.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Views/TrainSignalView.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Train/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Train/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MovingController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MovingController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Path.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Path.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Views/FixTrainView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Views/FixTrainView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Views/GameOverView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Views/GameOverView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Views/ViewsHolder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Views/ViewsHolder.cs" afterDir="false" />
-    </list>
+    <list default="true" id="3b88ac47-59f2-411a-8882-bd726cce8edb" name="Changes" comment="Add train signal" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663537366470</updated>
-      <workItem from="1663537369317" duration="3057000" />
+      <workItem from="1663537369317" duration="3467000" />
     </task>
     <task id="LOCAL-00001">
       <created>1663537546928</created>
@@ -94,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663564598539</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add train signal">
+      <created>1663565562818</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663565562818</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +117,7 @@
     <MESSAGE value="Add cameras rotate" />
     <MESSAGE value="Fix bugs" />
     <MESSAGE value="Update Scene" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Scene" />
+    <MESSAGE value="Add train signal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add train signal" />
   </component>
 </project>
