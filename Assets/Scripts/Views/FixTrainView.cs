@@ -7,13 +7,13 @@ namespace DefaultNamespace
 {
     public class FixTrainView : MonoBehaviour
     {
-        [SerializeField] private Button FixButton;
+        [SerializeField] private Button _fixButton;
         private TrainCharacteristics trainCharacteristics;
 
         private void Start()
         {
             trainCharacteristics = TrainCharacteristics.instance;
-            FixButton.onClick.AddListener(() =>
+            _fixButton.onClick.AddListener(() =>
             {
                 trainCharacteristics.TrainRecovery();
             });

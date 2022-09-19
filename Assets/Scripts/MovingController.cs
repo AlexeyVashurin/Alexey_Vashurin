@@ -16,7 +16,6 @@ public class MovingController : MonoBehaviour
         pointInPath = _path.GetNextPathPoint();
         _trainCharacteristics = TrainCharacteristics.instance;
     }
-
     public void Update()
     {
         if (pointInPath == null)

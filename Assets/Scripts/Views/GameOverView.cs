@@ -1,5 +1,3 @@
-using System;
-using System.Security;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -16,7 +14,6 @@ namespace DefaultNamespace
         {
             _restartButton.onClick.AddListener(()=>SceneManager.LoadScene(0));
         }
-
         public void SetTextResult(int boxCount)
         {
             _yourResult.text = "Ты собрал " + boxCount + " груз!";

@@ -1,7 +1,3 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Xml.XPath;
 using UnityEngine;
 
 public class Path : MonoBehaviour
@@ -20,9 +16,6 @@ public class Path : MonoBehaviour
         }
         Gizmos.DrawLine(_pathElements[0].position, _pathElements[_pathElements.Length-1].position);
     }
-
-
-   
     public Transform GetNextPathPoint()
     {
         _moveingTo++;
@@ -34,7 +27,6 @@ public class Path : MonoBehaviour
 
         return _pathElements[_moveingTo];
     }
-
     public Transform GetStartPosition()
     {
         return _pathElements[0];
